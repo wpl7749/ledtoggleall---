@@ -1,5 +1,6 @@
 {
     "name": "led.toggleall（） - 复制",
+    "version": "1.0.0",
     "description": "",
     "dependencies": {
         "core": "*",
